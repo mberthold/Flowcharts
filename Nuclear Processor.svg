@@ -179,8 +179,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6477217"
-     inkscape:cx="401.10623"
-     inkscape:cy="713.59228"
+     inkscape:cx="311.58869"
+     inkscape:cy="907.79983"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -493,7 +493,7 @@
          id="tspan4821-8-2"
          x="155.35602"
          y="317.6062"
-         style="font-size:12.5px">###</tspan></text>
+         style="font-size:12.5px">8.5E-4</tspan></text>
     <rect
        style="fill:#006dff;fill-opacity:0.63095236;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3336-7-5-9"
@@ -693,6 +693,6 @@
          id="tspan4821-8-2-9"
          x="155.08507"
          y="143.36253"
-         style="font-size:12.5px">###</tspan></text>
+         style="font-size:12.5px">8.5E-4</tspan></text>
   </g>
 </svg>
