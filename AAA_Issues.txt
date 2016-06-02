@@ -1,2 +1,2 @@
-What timescale does the UKS Math table use?
+What timescale does the UKS Math table use? - solved! if not otherwise specified it is units per second
 What is the Kerbal function "Homeostasis"?
