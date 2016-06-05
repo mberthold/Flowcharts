@@ -179,8 +179,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6477217"
-     inkscape:cx="326.76116"
-     inkscape:cy="786.42011"
+     inkscape:cx="237.24362"
+     inkscape:cy="737.86822"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -389,7 +389,7 @@
          id="tspan4821-8-6"
          x="456.1073"
          y="143.42662"
-         style="font-size:12.5px">0.025</tspan></text>
+         style="font-size:12.5px">250</tspan></text>
     <rect
        style="fill:#fff600;fill-opacity:0.63095236;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3336-3"
@@ -525,7 +525,7 @@
          id="tspan4821-8-6-5"
          x="455.36288"
          y="317.67029"
-         style="font-size:12.5px">0.025</tspan></text>
+         style="font-size:12.5px">250</tspan></text>
     <rect
        style="fill:#fff600;fill-opacity:0.63095236;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3336-3-1"
@@ -644,7 +644,7 @@
          id="tspan5120-6-2-4"
          style="font-size:17.5px;text-align:center;text-anchor:middle">Recyclables</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6522)"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.97899997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6522)"
        d="m 387.34456,534.32244 123.81127,-0.0205"
        id="path5124-2-7-5"
        inkscape:connector-type="polyline"
