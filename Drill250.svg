@@ -165,8 +165,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="265.83141"
-     inkscape:cy="777.35415"
+     inkscape:cx="160.47427"
+     inkscape:cy="748.78272"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -262,14 +262,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="179.40359"
+       x="239.01541"
        y="523.8504"
        id="text5772"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5774"
-         x="179.40359"
-         y="523.8504">Conversion rates in units per UNSPECIFIED AMOUNT OF TIME</tspan></text>
+         x="239.01541"
+         y="523.8504">Conversion rates in units per second.</tspan></text>
     <g
        id="g4309">
       <g
