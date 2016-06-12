@@ -179,8 +179,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6477217"
-     inkscape:cx="222.07115"
-     inkscape:cy="665.04039"
+     inkscape:cx="132.55361"
+     inkscape:cy="567.93661"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -674,14 +674,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="117.92167"
+       x="224.19852"
        y="679.4483"
        id="text6681"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6683"
-         x="117.92167"
-         y="679.4483">Only one process can be active at a time! Wear occurs as soon as a process is active.</tspan></text>
+         x="224.19852"
+         y="679.4483">Wear occurs as soon as a process is active.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

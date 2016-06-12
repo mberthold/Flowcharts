@@ -255,7 +255,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1651152"
-     inkscape:cx="255.9364"
+     inkscape:cx="129.33948"
      inkscape:cy="181.35264"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -384,14 +384,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="71.200935"
+       x="181.0369"
        y="1104.9255"
        id="text6681"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6683"
-         x="71.200935"
-         y="1104.9255">Only one process can be active at a time! Calculation for wear is merged into the machinery processe.</tspan></text>
+         x="181.0369"
+         y="1104.9255">Calculation for wear is merged into the machinery processe.</tspan></text>
     <rect
        style="fill:#ff7600;fill-opacity:0.63095236;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3336-3"
@@ -885,7 +885,7 @@
            height="149.34146"
            x="90.119843"
            y="782.00269" /></flowRegion><flowPara
-         id="flowPara4430"></flowPara></flowRoot>    <g
+         id="flowPara4430" /></flowRoot>    <g
        transform="translate(-0.31480705,658.7662)"
        id="g4398-3-8-6-5-9"
        style="fill:#fff600;fill-opacity:0.63137255">
@@ -939,7 +939,7 @@
            height="143.33347"
            x="91.836411"
            y="927.05273" /></flowRegion><flowPara
-         id="flowPara4585"></flowPara></flowRoot>    <g
+         id="flowPara4585" /></flowRoot>    <g
        id="g6664"
        transform="translate(1.2977002,163.72243)">
       <rect

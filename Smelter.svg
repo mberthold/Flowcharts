@@ -196,8 +196,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="16.417687"
-     inkscape:cy="302.75819"
+     inkscape:cx="225.34626"
+     inkscape:cy="331.32962"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -631,7 +631,7 @@
          x="96.296104"
          y="497.6521"
          style="font-size:17.5px;text-align:center;text-anchor:middle"
-         id="tspan4239-9-0">Substartes</tspan></text>
+         id="tspan4239-9-0">Substrates</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.95799994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5236-7)"
        d="m 149.65114,497.62833 122.96443,0"
@@ -830,13 +830,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="74.240028"
+       x="203.15359"
        y="957.4079"
        id="text6681"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6683"
-         x="74.240028"
-         y="957.4079">Only one refinery  process can be active at a time! Wear occurs as soon as a refinery process is active.</tspan></text>
+         x="203.15359"
+         y="957.4079">Wear occurs as soon as a refinery process is active.</tspan></text>
   </g>
 </svg>

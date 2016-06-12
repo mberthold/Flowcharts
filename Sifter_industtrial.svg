@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Sifter.svg">
+   sodipodi:docname="Sifter_industtrial.svg">
   <defs
      id="defs4">
     <marker
@@ -196,8 +196,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="229.92856"
-     inkscape:cy="847.39896"
+     inkscape:cx="124.57142"
+     inkscape:cy="361.68467"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -293,14 +293,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="190.50043"
+       x="239.01541"
        y="898.14893"
        id="text5772"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5774"
-         x="190.50043"
-         y="898.14893">Conversion rates in units per UNSPECIFIED AMOUNT OF TIME</tspan></text>
+         x="239.01541"
+         y="898.14893">Conversion rates in units per second.</tspan></text>
     <rect
        style="fill:#ff7600;fill-opacity:0.63095236;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3336"
@@ -808,14 +808,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="116.32987"
+       x="224.19852"
        y="957.4079"
        id="text6681"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6683"
-         x="116.32987"
-         y="957.4079">Only one  process can be active at a time! Wear occurs as soon as a process is active.</tspan></text>
+         x="224.19852"
+         y="957.4079">Wear occurs as soon as a process is active.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
